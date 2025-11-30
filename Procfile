@@ -1,0 +1,1 @@
+worker: n8n
